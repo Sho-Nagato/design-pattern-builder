@@ -7,6 +7,6 @@ public class Director {
 
     public void construct() {
         builder.makeTitle("タイトル");
-        builder.makeString("文章");
+        builder.makeString("文書");
     }
 }
